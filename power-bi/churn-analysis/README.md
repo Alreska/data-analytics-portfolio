@@ -13,15 +13,13 @@ The dataset consists of customer-level data covering:
 All data was cleaned and transformed using Power Query before analysis.
 
 ### Power BI Techniques Used
-- Power Query (data cleaning & transformation)
-- Data modeling & relationships
 - DAX measures:
   - Churn Rate
   - Total Customers
   - Churned Customers
   - Average Charges & Customer Service Calls
 - Interactive slicers and cross-filtering
-- KPI cards, bar charts, line charts, pie charts, and scatter plots
+- Bar charts, line charts, pie charts, and scatter plots
 
 ### Dashboard Pages
 - Overview: Churn rate, churn reasons, churn category, and contract distribution
